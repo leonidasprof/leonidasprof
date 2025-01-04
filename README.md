@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leônidas Leandro
 
-**`Desenvolvedora FullStack`**
+**`Professor/Instrutor de Tecnologia Aplicada`**
 
 👋 Olá! Sou Leônidas Leandro de Souza , tenho 42 anos e sou natural de Recife , mas vivi muitos anos em São Paulo , o que me faz sentir que tenho duas "🌍naturalidades". 
 
@@ -121,16 +121,6 @@
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leonidasprof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<br/>
-<br/>
 
 <img 
       align="left" 
