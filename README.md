@@ -72,7 +72,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Trello" 
@@ -80,19 +79,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
-
 />
-
 <img 
     align="left" 
-    alt="Jira" 
-    title="Jira"
+    alt="Trello" 
+    title="Trello"
     width="30px" 
     style="padding-right: 10px;" 
-    src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SQL" 
