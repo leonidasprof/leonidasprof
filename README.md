@@ -24,6 +24,7 @@
 
 ### 🤖 Tecnologias Linguagens e Ferramentas
 
+<br/>
 
 <img 
     align="left" 
@@ -143,6 +144,8 @@
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
