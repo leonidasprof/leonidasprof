@@ -24,6 +24,7 @@
 
 ### 🤖 Tecnologias Linguagens e Ferramentas
 
+
 <img 
     align="left" 
     alt="Canva" 
