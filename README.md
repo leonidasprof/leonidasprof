@@ -106,7 +106,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Dbeaver" 
@@ -115,7 +114,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
