@@ -4,7 +4,7 @@
 
 👋 Olá! Sou Leônidas Leandro de Souza , tenho 42 anos e sou natural de Recife , mas vivi muitos anos em São Paulo , o que me faz sentir que tenho duas "🌍naturalidades". 
 
-🎓 Comecei meus estudos na Escola Técnica com o curso de Estradas, explorei Análise e Desenvolvimento de Sistemas, mas foi na sala de aula que descobri minha verdadeira paixão. 🧑‍🏫 Com mais de 20 anos de experiência como professor , já ministrei capacitações corporativas e atuei em instituições renomadas como SENAI ,SESI, SENAC , Grau Técnico e Escola Técnica Regional (ETR).
+🎓 Comecei meus estudos na Escola Técnica com o curso de Estradas, explorei Análise e Desenvolvimento de Sistemas e Jogos, mas foi na sala de aula que descobri minha verdadeira paixão. 🧑‍🏫 Com mais de 20 anos de experiência como professor , já ministrei capacitações corporativas e atuei em instituições renomadas como SENAI ,SESI, SENAC , Grau Técnico e Escola Técnica Regional (ETR).
 
 📚 Atualmente, estou cursando Gestão da Tecnologia da Informação na CESAR School , aprofundando meus conhecimentos em Data Analytics e Inteligência Artificial . Sou apaixonado por tecnologia 💻 e criatividade 🎨, o que me levou a construir uma carreira sólida na Programação Visual , onde atuei como designer gráfico em projetos para empresas como OI , Wizard , Câmara Municipal do Recife e outros trabalhos autônomos. 🖌️✨
 
