@@ -11,14 +11,14 @@
 🌟 Além disso, compartilho reflexões e experiências com mais de 5.000 ex-alunos em minhas redes sociais. Ah, me encontra lá, vamos conectar e construir juntos! 🚀
 
 <p align="left">
-    <a href="https://github.com/leonidasprof?tab=followers](https://www.linkedin.com/in/leonidasprof/">
+    <a href="https://www.linkedin.com/in/leonidasprof/">
         <img 
             alt="link" 
             title="Me siga no Linkedin" 
             src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"
         />
     </a>
-     <a href="https://github.com/leonidasprof?tab=followers](https://www.instagram.com/prof.tenebroso/">
+     <a href="https://www.instagram.com/prof.tenebroso/">
         <img 
             alt="Link" 
             title="Me siga no Instagram" 
