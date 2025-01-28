@@ -183,18 +183,16 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidasprof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
-<br/>
-
 ---
 
 ### 🖇️ Relátório de Envios
 
 <br/>
+
 <img 
     height="200" 
 src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
  />
 
-<br/>
 
 ###
