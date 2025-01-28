@@ -25,6 +25,13 @@
             src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"
         />
     </a>
+     <a href="https://www.facebook.com/ProfessorTenebroso/">
+        <img 
+            alt="link" 
+            title="Me siga no Facebook" 
+            src="https://img.shields.io/static/v1?message=FaceBook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"
+        />
+    </a>
      <a href="mailto:leonidasls@gmail.com". target="_blank" rel="noopener noreferre">
         <img 
             alt="Link" 
