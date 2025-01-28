@@ -171,8 +171,6 @@
 <br/>
 <br/>
 
----
-
 ### 🖇️ Relátório de Envios
 
 <br/>
@@ -180,9 +178,9 @@
 <p>
     
 <img 
-     align="right" 
-      alt="GitHub Stats" 
-      height="200" 
+     align="left" 
+      alt="Commits" 
+      height="100" 
     src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
  />
 
