@@ -167,3 +167,7 @@
   />
 
 </p>
+
+<img src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" />
+
+###
