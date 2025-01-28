@@ -158,20 +158,17 @@
 <br/>
 
 <p>
-
+<div align="left">
 <img 
-      align="left" 
-      alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidasprof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
   
 <img 
-     align="right" 
-      alt="Commits" 
-      height="200" 
+    height="200" 
     src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
  />
+</div>
 
 <br/>
 <br/>
