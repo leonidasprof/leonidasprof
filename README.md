@@ -8,7 +8,7 @@
 
 📚 Atualmente, estou cursando Gestão da Tecnologia da Informação na CESAR School , aprofundando meus conhecimentos em Data Analytics e Inteligência Artificial . Sou apaixonado por tecnologia 💻 e criatividade 🎨, o que me levou a construir uma carreira sólida na Programação Visual , onde atuei como designer gráfico em projetos para empresas como OI , Wizard , Câmara Municipal do Recife e outros trabalhos autônomos.🖌️✨
 
-🌟 Além disso, compartilho reflexões e experiências com mais de 5.000 ex-alunos em minhas redes sociais. Ah, me encontrem lá, vamos conectar e construir juntos! 🚀
+🌟 Além disso, compartilho reflexões e experiências com mais de 5.000 ex-alunos em minhas redes sociais. Ah, dá uma olhada lá, vamos conectar e construir juntos! 🚀
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leonidasprof/">
