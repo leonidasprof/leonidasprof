@@ -11,17 +11,17 @@
 🌟 Além disso, compartilho conhecimento e experiências com mais de 5.000 alunos no meu Facebook "[Leonidas Leandro](https://www.facebook.com/ProfessorTenebroso/)" e também no Instagram "[@prof.tenebroso](https://www.instagram.com/prof.tenebroso/)". Ah, não esqueça de me encontrar no LinkedIn : "[leonidasprof](https://www.linkedin.com/in/leonidasprof/)". Vamos conectar e construir juntos!🚀
 
 <p align="left">
-    <a href="https://github.com/leonidasprof?tab=followers">
+    <a href="[https://github.com/leonidasprof?tab=followers](https://www.linkedin.com/in/leonidasprof/)">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/leonidasprof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="link" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"
         />
     </a>
      <a href="[https://github.com/leonidasprof?tab=followers](https://www.instagram.com/prof.tenebroso/)">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Link" 
+            title="Me siga no Instagram" 
             src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"
         />
     </a>
