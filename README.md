@@ -162,18 +162,15 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="300" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidasprof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
+
 <br/>
 <br/>
-<br/>
-<br/>
-</p>
 <br/>
 
-</p>
 ---
 
 ### 🖇️ Relátório de Envios
@@ -183,11 +180,11 @@
 <p>
     
 <img 
+     align="right" 
+      alt="GitHub Stats" 
+      height="200" 
     src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
-  />
-
-<br/>
-<br/>
+ />
 
 ---
 ###
