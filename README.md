@@ -46,7 +46,7 @@
 ### 🤖 Tecnologias Linguagens e Ferramentas
 
 <br/>
-
+<p align="left">
 <img 
     align="left" 
     alt="Canva" 
@@ -167,7 +167,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
 />
-<p>
+<p/>
 
 <br/>
 <br/>
