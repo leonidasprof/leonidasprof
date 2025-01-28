@@ -11,18 +11,25 @@
 🌟 Além disso, compartilho conhecimento e experiências com mais de 5.000 alunos no meu Facebook "[Leonidas Leandro](https://www.facebook.com/ProfessorTenebroso/)" e também no Instagram "[@prof.tenebroso](https://www.instagram.com/prof.tenebroso/)". Ah, não esqueça de me encontrar no LinkedIn : "[leonidasprof](https://www.linkedin.com/in/leonidasprof/)". Vamos conectar e construir juntos!🚀
 
 <p align="left">
-    <a href="[https://github.com/leonidasprof?tab=followers](https://www.linkedin.com/in/leonidasprof/)">
+    <a href="https://github.com/leonidasprof?tab=followers](https://www.linkedin.com/in/leonidasprof/">
         <img 
             alt="link" 
             title="Me siga no Linkedin" 
             src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"
         />
     </a>
-     <a href="[https://github.com/leonidasprof?tab=followers](https://www.instagram.com/prof.tenebroso/)">
+     <a href="https://github.com/leonidasprof?tab=followers](https://www.instagram.com/prof.tenebroso/">
         <img 
             alt="Link" 
             title="Me siga no Instagram" 
             src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"
+        />
+    </a>
+     <a href="mailto:leonidasls@gmail.com". target="_blank" rel="noopener noreferre">
+        <img 
+            alt="Link" 
+            title="E-mail" 
+            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"
         />
     </a>
 </p>
