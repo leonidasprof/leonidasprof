@@ -177,8 +177,6 @@
 ### 📊 Estatísticas                                                      
 
 <br/>
-
-<p>
 <div align="left">
 <img 
       height="200" 
