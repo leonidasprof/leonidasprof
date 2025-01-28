@@ -153,7 +153,7 @@
 
 ---
 
-### 📊 Estatísticas                                                       ### 🖇️ Relátório de Envios
+### 📊 Estatísticas          <p>                                             ### 🖇️ Relátório de Envios
 
 <br/>
 
@@ -169,26 +169,12 @@
 <img 
      align="right" 
       alt="Commits" 
-      height="100" 
+      height="200" 
     src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
  />
 
 <br/>
 <br/>
-<br/>
-
-### 🖇️ Relátório de Envios
-
-<br/>
-
-<p>
-    
-<img 
-     align="left" 
-      alt="Commits" 
-      height="100" 
-    src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
- />
 
 ---
 ###
