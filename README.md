@@ -129,6 +129,14 @@
 />
 <img 
     align="left" 
+    alt="Vitejs" 
+    title="Vitejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Trello" 
     title="Trello"
     width="30px" 
