@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leônidas Leandro
 
-**Professor/Instrutor de Tecnologias Aplicada | Grstor Tech | Futuro Product Manager_Especialista em A.I.**
+**Professor/Instrutor de Tecnologias Aplicada | Gestor Tech | Futuro Product Manager_Especialista em A.I.**
 
 👋 Olá! Sou Leônidas Leandro de Souza , tenho 42 anos e sou natural de Recife , mas vivi muitos anos em São Paulo , o que me faz sentir que tenho duas "naturalidades". 
 
