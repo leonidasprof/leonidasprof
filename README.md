@@ -18,6 +18,13 @@
             src="https://custom-icon-badges.demolab.com/github/followers/leonidasprof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="[https://github.com/leonidasprof?tab=followers](https://www.instagram.com/prof.tenebroso/)">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"
+        />
+    </a>
 </p>
 
 ---
