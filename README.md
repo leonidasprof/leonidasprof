@@ -170,13 +170,16 @@
 <br/>
 
 ---
+</p>
 
 ### 🖇️ Relátório de Envios
+
 <br/>
 
 <p>
     
-<img src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
+<img 
+    src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
   />
 
 <br/>
