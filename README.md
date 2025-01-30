@@ -51,7 +51,7 @@
     align="left" 
     alt="Canva" 
     title="Canva"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  
 />
@@ -59,7 +59,7 @@
     align="left" 
     alt="Illustrator" 
     title="Illustator"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"  
 />
@@ -67,7 +67,7 @@
     align="left" 
     alt="PhotoShop" 
     title="PhotoShop"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
@@ -75,7 +75,7 @@
     align="left" 
     alt="VScode" 
     title="VScode"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
@@ -83,7 +83,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -91,7 +91,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -99,7 +99,7 @@
     align="left" 
     alt="Figma" 
     title="Figma"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
@@ -107,7 +107,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -115,7 +115,7 @@
     align="left" 
     alt="Nodejs" 
     title="Nodejs"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" 
 />
@@ -123,7 +123,7 @@
     align="left" 
     alt="React" 
     title="React"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -131,7 +131,7 @@
     align="left" 
     alt="Vitejs" 
     title="Vitejs"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
@@ -139,7 +139,7 @@
     align="left" 
     alt="Trello" 
     title="Trello"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
 />
@@ -147,7 +147,7 @@
     align="left" 
     alt="Trello" 
     title="Trello"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
@@ -155,7 +155,7 @@
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -163,7 +163,7 @@
     align="left" 
     alt="Dbeaver" 
     title="Dbeaver"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
@@ -171,7 +171,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -179,7 +179,7 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -187,7 +187,7 @@
     align="left" 
     alt="Streamlit" 
     title="Streamlit"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
 />
