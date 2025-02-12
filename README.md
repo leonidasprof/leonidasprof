@@ -185,6 +185,14 @@
 />
 <img 
     align="left" 
+    alt="Fastapi" 
+    title="Fastapi"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Streamlit" 
     title="Streamlit"
     width="25px" 
