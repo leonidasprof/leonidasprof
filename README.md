@@ -1,3 +1,18 @@
+# Leônidas Leandro de Souza  
+**Professor de Tecnologia | Gestor Tech | Futuro Product Manager | Especialista em IA**  
+
+👋 Olá! Sou Leônidas Leandro, profissional com mais de 20 anos de experiência no ensino de tecnologia e gestão. Nascido em Recife e com raízes também em São Paulo, construí minha trajetória explorando diferentes áreas da tecnologia e inovação.  
+
+🎓 Minha jornada começou na Escola Técnica com o curso de Estradas (#topografia), passando por Análise e Desenvolvimento de Sistemas e Jogos. No entanto, foi na sala de aula, ministrando disciplinas de Gestão e Tecnologia Aplicada, que descobri minha verdadeira vocação.  
+
+💡 Ao longo da carreira, já capacitei equipes e ministrei treinamentos para empresas como **Descarpack, Esperança Nordeste e ONG Prevenção Posithivo**, além de atuar em instituições renomadas como **SENAI, SESI, SENAC, Grau Técnico e Escola Técnica Regional (ETR)**. Atualmente, estou cursando **Gestão da Tecnologia da Informação na CESAR School**, aprofundando meus conhecimentos em **Data Analytics e Inteligência Artificial**.  
+
+💻 Além do ensino, minha paixão por tecnologia e criatividade me levou a atuar em **Programação Visual e Design Gráfico**, contribuindo com projetos para empresas como **OI, Wizard e Câmara Municipal do Recife**.  
+
+🌟 Hoje, compartilho conhecimento e reflexões com uma comunidade de mais de **5.000 ex-alunos**. Vamos conectar? 🚀  
+
+---
+
 # 👩🏻‍💻 Leônidas Leandro
 
 **Professor/Instrutor de Tecnologias Aplicada | Gestor Tech | Futuro Product Manager_Especialista em A.I.**
