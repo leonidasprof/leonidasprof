@@ -13,18 +13,6 @@
 
 ---
 
-# 👩🏻‍💻 Leônidas Leandro
-
-**Professor/Instrutor de Tecnologias Aplicada | Gestor Tech | Futuro Product Manager_Especialista em A.I.**
-
-👋 Olá! Sou Leônidas Leandro de Souza , tenho 42 anos e sou natural de Recife , mas vivi muitos anos em São Paulo , o que me faz sentir que tenho duas "naturalidades". 
-
-🎓 Comecei meus estudos na Escola Técnica com o curso de Estradas #toprografia, explorei Análise e Desenvolvimento de Sistemas e Jogos, mas foi na sala de aula, ministrando disciplinas de Gestão e Tecnologia Aplicada, que descobri minha verdadeira paixão. Com mais de 20 anos de experiência como professor, já ministrei treinamentos corporativos em diversas instituições como: Descarpack, Esperança Nordeste, ONG Prevenção Posithivo e atuei em instituições renomadas como SENAI ,SESI, SENAC , Grau Técnico e Escola Técnica Regional (ETR).
-
-📚 Atualmente, estou cursando Gestão da Tecnologia da Informação na CESAR School , aprofundando meus conhecimentos em Data Analytics e Inteligência Artificial . Sou apaixonado por tecnologia 💻 e criatividade 🎨, o que me levou a construir uma carreira sólida na Programação Visual , onde atuei como designer gráfico em projetos para empresas como OI , Wizard , Câmara Municipal do Recife e outros trabalhos autônomos.🖌️✨
-
-🌟 Além disso, compartilho reflexões e experiências com mais de 5.000 ex-alunos em minhas redes sociais. Ah, dá uma olhada lá, vamos conectar e construir juntos! 🚀
-
 <p align="left">
     <a href="https://www.linkedin.com/in/leonidasprof/">
         <img 
