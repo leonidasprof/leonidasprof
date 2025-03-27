@@ -5,7 +5,7 @@
 
 🎓 Minha jornada começou na Escola Técnica com o curso de Estradas (#topografia), passando por Análise e Desenvolvimento de Sistemas e Jogos. No entanto, foi na sala de aula, ministrando disciplinas de Gestão e Tecnologia Aplicada, que descobri minha verdadeira vocação.  
 
-💡 Ao longo da carreira, já capacitei equipes e ministrei treinamentos para empresas como **Descarpack, Esperança Nordeste, ONG Prevenção Posithivo**, além de atuar em instituições renomadas como **SENAI, SESI, SENAC, Grau Técnico e Escola Técnica Regional (ETR)**. Atualmente, estou cursando **Gestão da Tecnologia da Informação na CESAR School**, aprofundando meus conhecimentos em **Data Analytics e Inteligência Artificial**.  
+💡 Ao longo da minha tragetória, já capacitei equipes e ministrei treinamentos para empresas como **Descarpack, Esperança Nordeste, ONG Prevenção Posithivo**, além de atuar em instituições renomadas como **SENAI, SESI, SENAC, Grau Técnico e Escola Técnica Regional (ETR)**. Atualmente, estou cursando **Gestão da Tecnologia da Informação na CESAR School** e aprofundando meus conhecimentos em **Data Analytics e Inteligência Artificial**.  
 
 💻 Além do ensino, minha paixão por tecnologia e criatividade me levou a atuar em **Programação Visual e Design Gráfico**, contribuindo com projetos para empresas como **OI, Wizard e Câmara Municipal do Recife**.  
 
