@@ -1,5 +1,5 @@
 # Leônidas Leandro de Souza  
-**Professor de Tecnologia | Gestor Tech | Futuro Product Manager | Especialista em IA**  
+**Tutor Tech | Gestor Tech | Gestor de Processos e Projetos | Especialista em IA**  
 
 👋 Olá! Sou Leônidas Leandro, profissional com mais de 20 anos de experiência no ensino de tecnologia e gestão. Nascido em Recife e com raízes também em São Paulo, construí minha trajetória explorando diferentes áreas da tecnologia e inovação.  
 
