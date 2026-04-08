@@ -1,242 +1,117 @@
-# Leônidas Leandro de Souza  
-**Tutor Tech | Gestor Tech | Gestor de Processos e Projetos | Especialista em IA**  
+<p align="center">─── ⚡ LEÔNIDAS LEANDRO ⚡ ───</p>
 
-👋 Olá! Sou Leônidas Leandro, profissional com mais de 20 anos de experiência no ensino de tecnologia e gestão. Nascido em Recife e com raízes também em São Paulo, construí minha trajetória explorando diferentes áreas da tecnologia e inovação.  
-
-🎓 Minha jornada começou na Escola Técnica com o curso de Estradas (#topografia), passando por Análise e Desenvolvimento de Sistemas e Jogos. No entanto, foi na sala de aula, ministrando disciplinas de Gestão e Tecnologia Aplicada, que descobri minha verdadeira vocação.  
-
-💡 Ao longo da minha tragetória, já capacitei equipes e ministrei treinamentos para empresas como **Descarpack, Esperança Nordeste, ONG Prevenção Posithivo**, além de atuar em instituições renomadas como **SENAI, SESI, SENAC, Grau Técnico e Escola Técnica Regional (ETR)**. Atualmente, estou cursando **Gestão da Tecnologia da Informação na CESAR School** e aprofundando meus conhecimentos em **Data Analytics e Inteligência Artificial**.  
-
-💻 Além do ensino, minha paixão por tecnologia e criatividade me levou a atuar em **Programação Visual e Design Gráfico**, contribuindo com projetos para empresas como **OI, Wizard e Câmara Municipal do Recife**.  
-
-🌟 Hoje, compartilho conhecimento e reflexões com uma comunidade de mais de **5.000 ex-alunos**. Vamos conectar? 🚀  
-
----
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/leonidasprof/">
-        <img 
-            alt="link" 
-            title="Me siga no Linkedin" 
-            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"
-        />
-    </a>
-     <a href="https://www.instagram.com/prof.tenebroso/">
-        <img 
-            alt="Link" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"
-        />
-    </a>
-     <a href="https://www.facebook.com/ProfessorTenebroso/">
-        <img 
-            alt="link" 
-            title="Me siga no Facebook" 
-            src="https://img.shields.io/static/v1?message=FaceBook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"
-        />
-    </a>
-     <a href="mailto:leonidasls@gmail.com". target="_blank" rel="noopener noreferre">
-        <img 
-            alt="Link" 
-            title="E-mail" 
-            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"
-        />
-    </a>
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dcode%26color%3D00f2ff%26height%3D150%26section%3Dheader%26text%3DAI%2520%26%2520Tech%2520Strategist%26fontSize%3D40%26animation%3DfadeIn%26fontColor%3Dff00ff" />
 </p>
 
----
+<p align="center">
+<strong>Tutor Tech | Especialista em IA | Gestor de Processos e Projetos | Designer</strong>
 
-### 🤖 Tecnologias Linguagens e Ferramentas
 
-<br/>
-<p align="left">
-<img 
-    align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="Illustrator" 
-    title="Illustator"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"  
-/>
-<img 
-    align="left" 
-    alt="PhotoShop" 
-    title="PhotoShop"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Vitejs" 
-    title="Vitejs"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Dbeaver" 
-    title="Dbeaver"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Fastapi" 
-    title="Fastapi"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Streamlit" 
-    title="Streamlit"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
-/>
-    <img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
+
+
+<em>Transformando educação e gestão através da tecnologia e inteligência artificial.</em>
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/leonidasprof/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://www.instagram.com/prof.tenebroso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:leonidasls@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br/>
-<br/>
+👤 Sobre Mim
+
+Com mais de 20 anos de experiência no ecossistema de tecnologia e ensino, navego entre a precisão da gestão de processos e a criatividade do design. Atualmente, foco minha expertise em Inteligência Artificial e Data Analytics na CESAR School, unindo o poder do Low-code/No-code para acelerar entregas de alto impacto.
+
+🏙️ Base: Recife / São Paulo.
+
+🎓 Foco Atual: Gestão de TI, IA Aplicada e Inclusão Digital.
+
+💡 Legado: Mais de 5.000 alunos capacitados em instituições como SENAI, SESI e SENAC.
+
+🚀 Projetos em Destaque (Portfolio)
+
+Projeto
+
+Descrição
+
+Stack
+
+RecentroConecta
+
+Iniciativa de inclusão digital para facilitar o acesso turístico e cultural ao Parque de Esculturas Francisco Brennand no Recife Antigo.
+
+UX/UI Design & Inclusão
+
+Clareia
+
+Legaltech focada em traduzir "juridiquês" para linguagem simples e monitoramento inteligente de processos.
+
+IA & Process Mining
+
+🛠️ Cyber-Toolkit (Hard Skills)
+
+<details open>
+<summary><strong>🧠 Inteligência Artificial & Dados</strong></summary>
 
 
----
 
-### 📊 Estatísticas                                                      
 
-<br/>
 
-<img 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidasprof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+</details>
 
----
+<details>
+<summary><strong>⚡ Low-Code / No-Code / Vibe-Code</strong></summary>
 
-### 🖇️ Relátório de Envios                                                     
 
-<br/>
 
-<img 
-      height="200" 
-      src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" 
-  />
 
----
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VibeCode-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+</details>
+
+<details>
+<summary><strong>🎨 Design & Criatividade</strong></summary>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Canva-00C4CC%3Fstyle%3Dfor-the-badge%26logo%3Dcanva%26logoColor%3Dwhite" />
+</details>
+
+<details>
+<summary><strong>📊 Gestão & Agilidade</strong></summary>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djirasoftware%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Trello-0079BF%3Fstyle%3Dfor-the-badge%26logo%3Dtrello%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+</details>
+
+📈 Estatísticas & Atividade
+
+<p align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dleonidasprof%26theme%3Dtokyonight%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3D00f2ff%26text_color%3Dffffff" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dleonidasprof%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3Dff00ff%26text_color%3Dffffff" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/leonidasprof/leonidasprof/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+<em>"O código é o motor, mas o design e a educação são a interface com o humano."</em>
+</p>
