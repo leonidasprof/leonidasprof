@@ -1,16 +1,20 @@
-Leônidas Leandro de Souza
+Leônidas Leandro de Souza ...::Léo
 
-Tutor Tech | Gestor Tech | Gestor de Processos e Projetos | Especialista em IA
+Technical Trainer | Transformando conhecimento em prática com IA, processos e inovação
 
-👋 Olá! Sou Leônidas Leandro, profissional com mais de 20 anos de experiência no ensino de tecnologia e gestão. Nascido em Recife e com raízes também em São Paulo, construí minha trajetória explorando diferentes áreas da tecnologia e inovação.
+👋 Olá! Sou Leônidas Leandro, especialista em ensino de tecnologia e gestão com mais de 20 anos de experiência ajudando pessoas e organizações a transformarem conhecimento em resultado real.
 
-🎓 Minha jornada começou na Escola Técnica com o curso de Estradas (#topografia), passando por Análise e Desenvolvimento de Sistemas e Jogos. No entanto, foi na sala de aula, ministrando disciplinas de Gestão e Tecnologia Aplicada, que descobri minha verdadeira vocação.
+🎯 Minha trajetória começou na área técnica, passando por Estradas (Topografia), Análise e Desenvolvimento de Sistemas e Jogos Digitais. Mas foi na sala de aula que encontrei meu diferencial: traduzir conceitos complexos em aprendizado prático e aplicável.
 
-💡 Ao longo da minha trajetória, já capacitei equipes e ministrei treinamentos para empresas como Descarpack, Esperança Nordeste, ONG Prevenção Posithivo, além de atuar em instituições renomadas como SENAI, SESI, SENAC, Grau Técnico e Escola Técnica Regional (ETR). Atualmente, estou cursando Gestão da Tecnologia da Informação na CESAR School e aprofundando meus conhecimentos em Data Analytics e Inteligência Artificial.
+💡 Ao longo da carreira, já capacitei equipes e profissionais em empresas e instituições como Descarpack, Esperança Nordeste, ONG Prevenção Posithivo, SENAI, SESI, SENAC, Grau Técnico e ETR — sempre com foco em impacto real, não apenas teoria.
 
-💻 Além do ensino, minha paixão por tecnologia e criatividade me levou a atuar em Programação Visual e Design Gráfico, contribuindo com projetos para empresas como OI, Wizard e Câmara Municipal do Recife.
+🚀 Além do ensino, atuo com Programação Visual e Design, contribuindo com projetos para empresas como OI, Wizard e Câmara Municipal do Recife, unindo tecnologia, criatividade e comunicação.
 
-🌟 Hoje, compartilho conhecimento e reflexões com uma comunidade de mais de 5.000 ex-alunos. Vamos conectar? 🚀
+📊 Atualmente, estou me aprofundando em Data Analytics e Inteligência Artificial pela CESAR School, com foco em aplicar IA e automação na melhoria de processos e tomada de decisão.
+
+🌐 Hoje compartilho aprendizados com uma comunidade de mais de 5.000 ex-alunos e profissionais.
+
+👉 Se você acredita que tecnologia só faz sentido quando gera transformação, vamos conversar.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonidasprof/" target="_blank" rel="noopener noreferrer">
