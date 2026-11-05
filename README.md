@@ -35,7 +35,3 @@ Technical Trainer | Transformando conhecimento em prática com IA, processos e i
 
 <br clear="all" />
 
-📊 Estatísticas
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidasprof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="GitHub Stats" />
-
