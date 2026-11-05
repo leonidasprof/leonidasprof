@@ -6,7 +6,7 @@ Technical Trainer | Transformando conhecimento em prática com IA, processos e i
 
 🎯 Minha trajetória começou na área técnica, passando por Estradas (Topografia), Análise e Desenvolvimento de Sistemas e Jogos Digitais. Mas foi na sala de aula que encontrei meu diferencial: traduzir conceitos complexos em aprendizado prático e aplicável.
 
-💡 Ao longo da carreira, já capacitei equipes e profissionais em empresas e instituições como Descarpack, Esperança Nordeste, ONG Prevenção Posithivo, SENAI, SESI, SENAC, Grau Técnico e ETR — sempre com foco em impacto real, não apenas teoria.
+💡 Ao longo da carreira, já capacitei equipes e profissionais em empresas e instituições como Descarpack, Esperança Nordeste Logística, ONG Prevenção Posithivo, SENAI, SESI, SENAC, Grau Técnico e ETR. Sempre com foco em impacto real, não apenas teoria.
 
 🚀 Além do ensino, atuo com Programação Visual e Design, contribuindo com projetos para empresas como OI, Wizard e Câmara Municipal do Recife, unindo tecnologia, criatividade e comunicação.
 
