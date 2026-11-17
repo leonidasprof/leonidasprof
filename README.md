@@ -8,13 +8,13 @@ Technical Trainer | Transformando conhecimento em prática com IA, processos e i
 
 💡 Ao longo da carreira, já capacitei equipes e profissionais em empresas e instituições como Descarpack, Esperança Nordeste Logística, ONG Prevenção Posithivo, SENAI, SESI, SENAC, Grau Técnico e ETR. Sempre com foco em impacto real, não apenas teoria.
 
-🚀 Além do ensino, atuo com Programação Visual e Design, contribuindo com projetos para empresas como OI, Wizard e Câmara Municipal do Recife, unindo tecnologia, criatividade e comunicação.
+🚀 Além do ensino, atuo como Designer (Programação Visual e Produto), já contribui com projetos para empresas como OI, Wizard, Escola Técnica Regional e Câmara Municipal do Recife, unindo tecnologia, criatividade e comunicação.
 
-📊 Atualmente, estou me aprofundando em Data Analytics e Inteligência Artificial pela CESAR School, com foco em aplicar IA e automação na melhoria de processos e tomada de decisão.
+📊 Atualmente, estou me aprofundando em Gestão de Tecnologias, Data Analytics e Inteligência Artificial pela CESAR School, com foco em aplicar IA e automação na melhoria de processos e tomada de decisão.
 
 🌐 Hoje compartilho aprendizados com uma comunidade de mais de 5.000 ex-alunos e profissionais.
 
-👉 Se você acredita que tecnologia só faz sentido quando gera transformação, vamos conversar.
+👉 Eu acredito que tecnologia só faz sentido quando gera transformação!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonidasprof/" target="_blank" rel="noopener noreferrer">
